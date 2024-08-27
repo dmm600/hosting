@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "2e52aa2865e8ddbfff6d3e5ed18725457072d3ff",
+    "buildCommit": "3ce98efebdbf35fb0879d3bed31f5198a84c9b1b",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -36,7 +36,7 @@
         "netty-codec-smtp-4.1.112.Final.jar": "40b1bfb093af2658e5bbe77f71c138bb67ab7b56203d3934b27f31975b70f21c",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "netty-transport-native-kqueue-4.1.112.Final-osx-aarch_64.jar": "571664e9502966caaa2620e6c058a76464c685a5936ef4b166f3ebd2d5d691a6",
-        "http-api-1.0.16-STABLE.jar": "bd12db4761f778a2e188e66446278d4ca18b999e5156ec583cc9ab995db5f31e",
+        "http-api-1.0.16-STABLE.jar": "036cfdb0cdbb1c6829194a8a45fb10af46d7b3892468cfe2f5e490f65069cea1",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "kotlin-stdlib-jdk8-1.6.21.jar": "dab45489b47736d59fce44b80676f1947a9b6bcab10fd60e878a83bd82a6954c",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
@@ -105,7 +105,7 @@
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "netty-transport-sctp-4.1.112.Final.jar": "a1b8f663be0c8433f4df0b216c52e85548e77b6975e65fda813f032a58a5e4ac",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
-        "runelite-client-1.0.16-STABLE.jar": "2eb654d3e24d4b9c98bd3485e2456ca83e93d7e798056340e49be3613aa6a005",
+        "runelite-client-1.0.16-STABLE.jar": "a78939741f69c9c758a48c9752669f71ffdfecab90ac6ea1e255d1b2494aa6dc",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
@@ -219,9 +219,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/dmm600/hosting/master/stable/http-api-1.0.16-STABLE.jar",
-            "size": 95512,
+            "size": 95511,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "bd12db4761f778a2e188e66446278d4ca18b999e5156ec583cc9ab995db5f31e"
+            "hash": "036cfdb0cdbb1c6829194a8a45fb10af46d7b3892468cfe2f5e490f65069cea1"
         },
         {
             "path": "https://raw.githubusercontent.com/dmm600/hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
@@ -879,9 +879,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/dmm600/hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
-            "size": 15613874,
+            "size": 15613342,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "2eb654d3e24d4b9c98bd3485e2456ca83e93d7e798056340e49be3613aa6a005"
+            "hash": "a78939741f69c9c758a48c9752669f71ffdfecab90ac6ea1e255d1b2494aa6dc"
         }
     ]
 }
