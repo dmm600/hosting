@@ -105,7 +105,7 @@
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "netty-transport-sctp-4.1.112.Final.jar": "a1b8f663be0c8433f4df0b216c52e85548e77b6975e65fda813f032a58a5e4ac",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
-        "runelite-client-1.0.16-STABLE.jar": "a78939741f69c9c758a48c9752669f71ffdfecab90ac6ea1e255d1b2494aa6dc",
+        "runelite-client-1.0.16-STABLE.jar": "8ff028ba90daa7bd31c570487244943a9cb87fb2457332db9b0f4875fa938e1c",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
@@ -879,9 +879,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/dmm600/hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
-            "size": 15613342,
+            "size": 15614048,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "a78939741f69c9c758a48c9752669f71ffdfecab90ac6ea1e255d1b2494aa6dc"
+            "hash": "8ff028ba90daa7bd31c570487244943a9cb87fb2457332db9b0f4875fa938e1c"
         }
     ]
 }
