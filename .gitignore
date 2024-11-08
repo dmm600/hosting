@@ -1,1 +1,4 @@
 README-ignore.md
+.idea/
+bootstrap-stable-rl211.json
+stable/run fatjar client.bat

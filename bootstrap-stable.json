@@ -25,7 +25,7 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
-        "client-1.10.43-SNAPSHOT-shaded.jar": "b9a626f2c8227a8ac34d71466b2eec8cc525759370f50c336b73a57f2f9ff93a"
+        "client-1.10.44-SNAPSHOT-shaded.jar": "628ecd77f7a48f79c8f749ae91c8caa1192a9b4b26f57ebcaf14850eb47658a6"
     },
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -96,10 +96,10 @@
     "projectVersion": "1.0.16-STABLE",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/dmm600/hosting/master/undefined/client-1.10.43-SNAPSHOT-shaded.jar",
-            "size": 28109793,
+            "path": "https://raw.githubusercontent.com/dmm600/hosting/master/undefined/client-1.10.44-SNAPSHOT-shaded.jar",
+            "size": 28111516,
             "name": "client-1.10.44-SNAPSHOT-shaded.jar",
-            "hash": "b9a626f2c8227a8ac34d71466b2eec8cc525759370f50c336b73a57f2f9ff93a"
+            "hash": "628ecd77f7a48f79c8f749ae91c8caa1192a9b4b26f57ebcaf14850eb47658a6"
         }
     ]
 }
