@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "de377128bfdac910d92a9ef4225925de7ed30932",
+    "buildCommit": "f40140b390d706d1db0c34b8e92011f46ef1473e",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -25,7 +25,7 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
-        "client-1.10.44-SNAPSHOT-shaded.jar": "5bdbd7b84ab5b67d2507d595c54586ca1c3386583914e6f55b6a24963947d8b1"
+        "client-1.11.16-SNAPSHOT-shaded.jar": "cce9e10ab60ddf019db495d54e2fabe062c75ecfb990e980c9954625fff87e9f"
     },
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -96,10 +96,10 @@
     "projectVersion": "1.0.16-STABLE",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/dmm600/hosting/master/undefined/client-1.10.44-SNAPSHOT-shaded.jar",
-            "size": 30914450,
-            "name": "client-1.10.44-SNAPSHOT-shaded.jar",
-            "hash": "5bdbd7b84ab5b67d2507d595c54586ca1c3386583914e6f55b6a24963947d8b1"
+            "path": "https://raw.githubusercontent.com/dmm600/hosting/master/undefined/client-1.11.16-SNAPSHOT-shaded.jar",
+            "size": 30025615,
+            "name": "client-1.11.16-SNAPSHOT-shaded.jar",
+            "hash": "cce9e10ab60ddf019db495d54e2fabe062c75ecfb990e980c9954625fff87e9f"
         }
     ]
 }
