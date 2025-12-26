@@ -25,7 +25,7 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
-        "client-1.11.16-SNAPSHOT-shaded.jar": "2acfb6b5c9a3b7b9573082fdc4484f05f8d1c9648078553558c5b84deca28d6b"
+        "client-1.11.16-SNAPSHOT-shaded.jar": "ad98188c7f7cb6cf843cdf6bd6a9643ad8151facd3a8cfa0b08d44e4b3a0a020"
     },
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -97,9 +97,9 @@
     "artifacts": [
         {
             "path": "https://raw.githubusercontent.com/dmm600/hosting/master/undefined/client-1.11.16-SNAPSHOT-shaded.jar",
-            "size": 30026032,
+            "size": 30026645,
             "name": "client-1.11.16-SNAPSHOT-shaded.jar",
-            "hash": "2acfb6b5c9a3b7b9573082fdc4484f05f8d1c9648078553558c5b84deca28d6b"
+            "hash": "ad98188c7f7cb6cf843cdf6bd6a9643ad8151facd3a8cfa0b08d44e4b3a0a020"
         }
     ]
 }
